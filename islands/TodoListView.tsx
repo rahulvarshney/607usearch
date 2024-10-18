@@ -147,14 +147,6 @@ export default function TodoListView(
           <p>
             Initial data fetched in {props.latency}ms
           </p>
-          <p>
-            <a
-              href="https://github.com/denoland/showcase_todo"
-              class="underline"
-            >
-              Source code
-            </a>
-          </p>
         </div>
       </div>
     </div>
