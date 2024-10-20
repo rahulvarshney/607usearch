@@ -122,7 +122,7 @@ export default function TodoListView(
           <div class="flex">
             <input
               class="border rounded w-full py-2 px-3 mr-4"
-              placeholder="Add a todo item"
+              placeholder="Add a do not buy"
               ref={addTodoInput}
             />
             <button
