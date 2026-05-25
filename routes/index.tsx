@@ -21,10 +21,14 @@ export default define.page(function Home(ctx) {
           height="128"
           alt="the Fresh logo: a sliced lemon dripping with juice"
         />
-        <h1 class="text-4xl font-bold">Welcome to Fresh</h1>
+        <h1 class="text-4xl font-bold">Welcome to 607 U Search</h1>
         <p class="my-4">
           Try updating this message in the
           <code class="mx-2">./routes/index.tsx</code> file, and refresh.
+          Welcome to 607 U Search,
+The Property Management Cooperative.
+We aim to connect individuals with clean, safe, reliable beds.
+
         </p>
         <Counter count={count} />
       </div>
