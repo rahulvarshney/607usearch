@@ -23,10 +23,10 @@ export default define.page(function Home(ctx) {
         />
         <h1 class="text-4xl font-bold">Welcome to 607 U Search</h1>
         <p class="my-4">
-          Try updating this message in the
-          <code class="mx-2">./routes/index.tsx</code> file, and refresh.
-          Welcome to 607 U Search,
-The Property Management Cooperative.
+          The Property Management Cooperative
+          <code class="mx-2">Raising Standards</code>One Bed at a Time.
+          
+
 We aim to connect individuals with clean, safe, reliable beds.
 
         </p>
